@@ -1,0 +1,7 @@
+C:\Users\JDMil\OneDrive\Desktop\Projects\Week2Day3\obj\Debug\Week2Day3.csprojAssemblyReference.cache
+C:\Users\JDMil\OneDrive\Desktop\Projects\Week2Day3\obj\Debug\Week2Day3.csproj.CoreCompileInputs.cache
+C:\Users\JDMil\OneDrive\Desktop\Projects\Week2Day3\bin\Debug\Week2Day3.exe.config
+C:\Users\JDMil\OneDrive\Desktop\Projects\Week2Day3\bin\Debug\Week2Day3.exe
+C:\Users\JDMil\OneDrive\Desktop\Projects\Week2Day3\bin\Debug\Week2Day3.pdb
+C:\Users\JDMil\OneDrive\Desktop\Projects\Week2Day3\obj\Debug\Week2Day3.exe
+C:\Users\JDMil\OneDrive\Desktop\Projects\Week2Day3\obj\Debug\Week2Day3.pdb
